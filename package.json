@@ -1,0 +1,23 @@
+{
+  "name": "message_decoder",
+  "version": "1.0.0",
+  "description": "Message decoder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jofese/message_decoder.git"
+  },
+  "author": "Joel Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jofese/message_decoder/issues"
+  },
+  "homepage": "https://github.com/jofese/message_decoder#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
